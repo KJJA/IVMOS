@@ -1,0 +1,11 @@
+raw/
+processed/
+outputs/
+logs/
+tests/
+
+__pycache__/
+.ipynb_checkpoints/
+*.parquet
+*.csv.gz
+*.pyc
